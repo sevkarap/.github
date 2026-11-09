@@ -1,1 +1,1 @@
-<img width="1920" height="1080" alt="sev_karap_intro" src="https://github.com/user-attachments/assets/22fddc2c-6438-41fe-a049-2f2b505fe5c2" />
+<img width="1536" height="484" alt="sev_karap_intro" src="https://github.com/user-attachments/assets/12be59ef-36e3-4599-b411-81e301edd04a" />
